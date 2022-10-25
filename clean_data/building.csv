@@ -1,0 +1,457 @@
+,index,site_id,building_id,primary_use,sub_primary_use,square_feet,lat,lng,year_built
+1,1300,0,56,Lodging/residential,Residence Hall	,60088.0,28.52,-81.4,2013.0
+2,2645,0,38,Office,Office,12769.0,28.52,-81.4,2013.0
+3,3939,0,71,Parking,Parking Garage,387638.0,28.52,-81.4,1998.0
+4,5294,0,46,Retail,Retail,9045.0,28.52,-81.4,2016.0
+5,6596,0,64,Lodging/residential,Residence Hall,53130.0,28.52,-81.4,2001.0
+6,7938,0,7,Education,Classroom,121074.0,28.52,-81.4,1989.0
+7,10419,0,16,Education,Classroom,54644.0,28.52,-81.4,1996.0
+8,11761,0,63,Lodging/residential,Residence Hall,41617.0,28.52,-81.4,2001.0
+9,13086,0,61,Lodging/residential,Residence Hall,38686.0,28.52,-81.4,2001.0
+10,14431,0,34,Lodging/residential,Residence Hall,42731.0,28.52,-81.4,2002.0
+11,15715,0,68,Parking,Parking Garage,487433.0,28.52,-81.4,2007.0
+12,17070,0,54,Education,Research,7867.0,28.52,-81.4,2011.0
+13,18347,0,49,Lodging/residential,Residence Hall,24456.0,28.52,-81.4,1968.0
+14,19650,0,31,Education,Classroom,61904.0,28.52,-81.4,2001.0
+15,22193,0,5,Education,Research,8000.0,28.52,-81.4,2000.0
+16,23528,0,27,Lodging/residential,Residence Hall,59200.0,28.52,-81.4,1999.0
+17,24907,0,39,Office,Office,64619.0,28.52,-81.4,1969.0
+18,26218,0,93,Office,Office,33370.0,28.52,-81.4,1982.0
+19,27575,0,1,Education,Research,2720.0,28.52,-81.4,2004.0
+20,28953,0,55,Office,Office,16726.0,28.52,-81.4,2011.0
+21,31415,0,14,Education,Classroom,86250.0,28.52,-81.4,2013.0
+23,35029,0,51,Parking,Parking Garage,387638.0,28.52,-81.4,2014.0
+24,36314,0,40,Entertainment/public assembly,Stadium,26944.0,28.52,-81.4,2001.0
+25,37642,0,86,Education,Research,10932.0,28.52,-81.4,1986.0
+26,38968,0,21,Office,Office,7043.0,28.52,-81.4,1990.0
+27,40283,0,66,Lodging/residential,Residence Hall,37241.0,28.52,-81.4,1981.0
+28,41579,0,90,Lodging/residential,Residence Hall,59200.0,28.52,-81.4,1999.0
+29,42893,0,13,Education,Classroom,99380.0,28.52,-81.4,2000.0
+30,45278,0,33,Lodging/residential,Residence Hall,38686.0,28.52,-81.4,2002.0
+31,46568,0,28,Office,Office,52957.0,28.52,-81.4,2016.0
+32,48888,0,17,Office,Office,15250.0,28.52,-81.4,1980.0
+34,51473,1,153,Office,Office,16092.0,51.53,-0.1345,1965.0
+35,52749,1,121,Education,College Laboratory,150318.0,51.53,-0.1345,1906.0
+36,55411,1,143,Office,Office,40085.0,51.53,-0.1345,
+37,56673,1,137,Entertainment/public assembly,Gymnasium,64024.0,51.53,-0.1345,1967.0
+38,57977,1,149,Office,Office,81881.0,51.53,-0.1345,1960.0
+39,59295,1,116,Education,College Laboratory,37265.0,51.53,-0.1345,
+40,60672,1,107,Education,College Classroom,97532.0,51.53,-0.1345,2005.0
+41,62050,1,118,Education,College Laboratory,138316.0,51.53,-0.1345,1960.0
+42,63386,1,111,Education,College Laboratory,118338.0,51.53,-0.1345,1909.0
+43,64700,1,142,Office,Office,45348.0,51.53,-0.1345,
+44,65974,1,120,Education,College Laboratory,68211.0,51.53,-0.1345,1976.0
+45,67285,1,128,Lodging/residential,Dormitory,102774.0,51.53,-0.1345,1956.0
+46,68559,1,133,Lodging/residential,Dormitory,64723.0,51.53,-0.1345,1960.0
+47,69841,1,136,Lodging/residential,Dormitory,56467.0,51.53,-0.1345,1960.0
+48,71127,1,122,Education,College Laboratory,83043.0,51.53,-0.1345,1991.0
+49,72483,1,117,Education,College Laboratory,15489.0,51.53,-0.1345,2004.0
+50,75091,2,203,Lodging/residential,Dormitory,63348.0,33.44,-111.94,2007.0
+51,79087,2,234,Education,College Classroom,179167.0,33.44,-111.94,1971.0
+52,83006,2,246,Office,Office,202435.0,33.44,-111.94,1967.0
+53,86953,2,226,Office,Office,74180.0,33.44,-111.94,1930.0
+54,90907,2,172,Office,Office,121440.0,33.44,-111.94,1983.0
+55,93547,2,249,Entertainment/public assembly,Planetarium,179449.0,33.44,-111.94,1976.0
+56,97447,2,239,Lodging/residential,Dormitory,106440.0,33.44,-111.94,1963.0
+57,101444,2,266,Education,Student Union,30543.0,33.44,-111.94,
+58,102723,2,197,Public services,Library,102856.0,33.44,-111.94,
+59,105430,2,160,Entertainment/public assembly,Museum,15786.0,33.44,-111.94,
+60,106704,2,244,Education,College Classroom,95717.0,33.44,-111.94,
+61,110584,2,178,Office,Office,23392.0,33.44,-111.94,
+62,113224,2,208,Healthcare,Health Services,36904.0,33.44,-111.94,1934.0
+63,115838,2,284,Entertainment/public assembly,Sports Stadium,230259.0,33.44,-111.94,1975.0
+64,119677,2,163,Education,College Classroom,72102.0,33.44,-111.94,1970.0
+65,123572,2,271,Education,College Laboratory,71421.0,33.44,-111.94,
+66,126181,2,243,Parking,Parking Garage,557217.0,33.44,-111.94,2004.0
+67,127485,2,198,Office,Office,163959.0,33.44,-111.94,2004.0
+68,130166,2,278,Office,Office,148101.0,33.44,-111.94,
+69,131433,2,191,Education,College Classroom,78268.0,33.44,-111.94,1964.0
+70,135423,2,260,Education,College Classroom,126985.0,33.44,-111.94,1979.0
+71,139352,2,162,Education,College Classroom,98829.0,33.44,-111.94,1968.0
+72,141980,2,207,Public services,Library,99700.0,33.44,-111.94,
+73,144618,2,186,Religious worship,Chapel,1629.0,33.44,-111.94,1948.0
+74,145904,2,209,Education,College Laboratory,193294.0,33.44,-111.94,2006.0
+75,149748,2,289,Entertainment/public assembly,Fitness Center,9666.0,33.44,-111.94,2005.0
+76,151062,2,174,Education,College Classroom,90900.0,33.44,-111.94,
+77,153687,2,173,Education,College Classroom,90903.0,33.44,-111.94,
+78,156395,2,285,Utility,Central Plant,21958.0,33.44,-111.94,
+79,159059,2,265,Office,Office,118966.0,33.44,-111.94,1988.0
+80,161627,2,235,Education,College Classroom,9309.0,33.44,-111.94,1970.0
+81,164220,2,288,Entertainment/public assembly,Fitness Center,10733.0,33.44,-111.94,2005.0
+82,165529,2,164,Warehouse/storage,Warehouse,12908.0,33.44,-111.94,1979.0
+83,166777,2,290,Office,Office,51732.0,33.44,-111.94,1966.0
+84,169452,2,251,Education,College Classroom,12773.0,33.44,-111.94,
+85,170763,2,222,Entertainment/public assembly,Theater,11935.0,33.44,-111.94,1939.0
+86,173347,2,270,Office,Office,29778.0,33.44,-111.94,
+87,175651,2,187,Education,College Classroom,44203.0,33.44,-111.94,1950.0
+88,179552,2,277,Education,Student Union,12761.0,33.44,-111.94,1909.0
+89,182227,2,254,Entertainment/public assembly,Fitness Center,254766.0,33.44,-111.94,1989.0
+90,186171,2,276,Office,Office,70837.0,33.44,-111.94,2014.0
+91,187503,2,282,Office,Office,28750.0,33.44,-111.94,
+92,190124,2,237,Public services,Library,101262.0,33.44,-111.94,1982.0
+93,192701,3,361,Public services,Fire Station,13224.0,38.9,-77.0,1965.0
+94,194003,3,320,Education,K-12 School,105500.0,38.9,-77.0,
+95,195356,3,425,Warehouse/storage,Non-Refrigerated Warehouse,202829.0,38.9,-77.0,1983.0
+96,196709,3,496,Public services,Library,16200.0,38.9,-77.0,
+97,198009,3,365,Healthcare,Hospital (General Medical & Surgical),819577.0,38.9,-77.0,1922.0
+99,200605,3,428,Entertainment/public assembly,Other - Recreation,1396.0,38.9,-77.0,
+100,201931,3,473,Public services,Police Station,46007.0,38.9,-77.0,1950.0
+101,203279,3,466,Public services,Library,22500.0,38.9,-77.0,
+102,204590,3,418,Entertainment/public assembly,Other - Recreation,86120.0,38.9,-77.0,1926.0
+103,205913,3,382,Education,K-12 School,47984.0,38.9,-77.0,2002.0
+104,207224,3,486,Education,K-12 School,86375.0,38.9,-77.0,1903.0
+105,208567,3,402,Public services,Fire Station,2818.0,38.9,-77.0,
+106,209827,3,532,Entertainment/public assembly,Swimming Pool,7133.0,38.9,-77.0,
+107,211188,3,534,Entertainment/public assembly,Other - Recreation,898.0,38.9,-77.0,
+108,212522,3,411,Entertainment/public assembly,Other - Recreation,6139.0,38.9,-77.0,
+110,215080,3,375,Office,Office,850354.0,38.9,-77.0,1989.0
+111,216367,3,460,Public services,Library,17927.0,38.9,-77.0,
+112,217686,3,552,Public services,Library,20110.0,38.9,-77.0,1936.0
+113,219044,3,374,Lodging/residential,Other - Lodging/Residential,350000.0,38.9,-77.0,1949.0
+114,220323,3,557,Public services,Library,19000.0,38.9,-77.0,
+115,221651,3,479,Public services,Police Station,43955.0,38.9,-77.0,1978.0
+116,223057,3,480,Office,Office,30000.0,38.9,-77.0,
+117,224387,3,515,Education,K-12 School,63900.0,38.9,-77.0,1921.0
+118,225622,3,399,Education,K-12 School,180000.0,38.9,-77.0,1939.0
+119,226982,3,389,Education,K-12 School,57165.0,38.9,-77.0,2014.0
+120,228259,3,461,Education,K-12 School,69400.0,38.9,-77.0,1959.0
+121,229557,3,355,Education,K-12 School,182500.0,38.9,-77.0,1970.0
+122,230821,3,351,Education,K-12 School,58908.0,38.9,-77.0,1910.0
+123,232160,3,449,Lodging/residential,Other - Lodging/Residential,18340.0,38.9,-77.0,1900.0
+124,233414,3,314,Education,K-12 School,225000.0,38.9,-77.0,
+125,234706,3,520,Office,Office,27600.0,38.9,-77.0,
+126,235989,3,437,Entertainment/public assembly,Other - Recreation,11651.0,38.9,-77.0,
+127,237232,3,393,Education,K-12 School,59400.0,38.9,-77.0,1900.0
+128,238526,3,459,Entertainment/public assembly,Other - Recreation,36744.0,38.9,-77.0,2004.0
+129,239830,3,358,Education,K-12 School,77700.0,38.9,-77.0,
+130,241129,3,432,Public services,Police Station,103200.0,38.9,-77.0,
+131,242362,3,412,Education,K-12 School,110000.0,38.9,-77.0,
+132,243727,3,292,Public services,Social/Meeting Hall,33743.0,38.9,-77.0,
+133,244988,3,348,Public services,Fire Station,10577.0,38.9,-77.0,1969.0
+134,246311,3,378,Public services,Fire Station,35241.0,38.9,-77.0,1978.0
+135,247600,3,439,Office,Office,62205.0,38.9,-77.0,
+136,248915,3,300,Education,K-12 School,62800.0,38.9,-77.0,2014.0
+137,250237,3,390,Office,Office,34400.0,38.9,-77.0,
+138,251606,3,339,Education,K-12 School,71100.0,38.9,-77.0,
+139,252905,3,562,Education,K-12 School,235000.0,38.9,-77.0,2013.0
+140,254245,3,511,Public services,Police Station,12316.0,38.9,-77.0,
+141,255556,3,431,Parking,Parking,1760.0,38.9,-77.0,
+142,256929,3,550,Public services,Library,16000.0,38.9,-77.0,2014.0
+143,258261,3,465,Office,Office,6400.0,38.9,-77.0,
+144,259515,3,353,Education,K-12 School,99700.0,38.9,-77.0,1955.0
+145,260814,3,481,Education,K-12 School,104294.0,38.9,-77.0,1976.0
+146,262100,3,325,Education,Other - Education,59200.0,38.9,-77.0,1959.0
+147,263441,3,500,Education,K-12 School,99975.0,38.9,-77.0,1968.0
+148,264770,3,394,Entertainment/public assembly,Other - Recreation,3545.0,38.9,-77.0,2000.0
+149,266065,3,535,Healthcare,Senior Care Community,15000.0,38.9,-77.0,2010.0
+150,267341,3,419,Education,K-12 School,271300.0,38.9,-77.0,1940.0
+151,268652,3,386,Entertainment/public assembly,Other - Recreation,17262.0,38.9,-77.0,2003.0
+152,269936,3,491,Education,K-12 School,66600.0,38.9,-77.0,1970.0
+153,271221,3,413,Warehouse/storage,Non-Refrigerated Warehouse,14839.0,38.9,-77.0,2005.0
+154,272474,3,564,Public services,Other - Public Services,89315.0,38.9,-77.0,
+155,273768,3,483,Education,K-12 School,207000.0,38.9,-77.0,1935.0
+156,275056,3,458,Entertainment/public assembly,Other - Recreation,4589.0,38.9,-77.0,
+157,276360,3,529,Public services,Fire Station,14519.0,38.9,-77.0,1908.0
+159,278951,3,455,Healthcare,Urgent Care Center/Clinic/Other Outpatient Office,29192.0,38.9,-77.0,2014.0
+160,280258,3,527,Public services,Fire Station,9392.0,38.9,-77.0,
+161,281590,3,554,Entertainment/public assembly,Other - Recreation,26187.0,38.9,-77.0,
+162,282908,3,494,Education,K-12 School,72800.0,38.9,-77.0,1959.0
+163,284252,3,403,Education,K-12 School,49500.0,38.9,-77.0,1962.0
+164,284738,3,489,Education,K-12 School,85039.0,38.9,-77.0,1925.0
+165,286015,3,317,Office,Office,16098.0,38.9,-77.0,
+166,287376,3,454,Public services,Library,16576.0,38.9,-77.0,1932.0
+167,288698,3,379,Entertainment/public assembly,Other - Recreation,7675.0,38.9,-77.0,
+168,290030,3,332,Education,K-12 School,90400.0,38.9,-77.0,
+169,291352,3,304,Entertainment/public assembly,Other - Recreation,194300.0,38.9,-77.0,1900.0
+170,292679,3,319,Public services,Fire Station,13100.0,38.9,-77.0,1929.0
+171,293905,3,538,Religious worship,Worship Facility,10000.0,38.9,-77.0,2010.0
+172,295251,3,545,Education,K-12 School,21903.0,38.9,-77.0,1931.0
+173,296557,3,333,Education,K-12 School,59900.0,38.9,-77.0,1962.0
+174,297840,3,471,Education,K-12 School,170000.0,38.9,-77.0,1956.0
+175,299127,3,440,Public services,Other - Public Services,35033.0,38.9,-77.0,1962.0
+176,300507,3,356,Public services,Social/Meeting Hall,4336.0,38.9,-77.0,
+177,301850,3,346,Entertainment/public assembly,Other - Recreation,17709.0,38.9,-77.0,
+178,303173,3,549,Public services,Other - Public Services,12754.0,38.9,-77.0,1968.0
+179,304477,3,462,Public services,Police Station,9226.0,38.9,-77.0,
+180,305791,3,495,Education,K-12 School,47500.0,38.9,-77.0,1968.0
+181,307090,4,594,Education,Education,177281.0,37.88,-122.25,1964.0
+182,308441,4,568,Education,Education,14150.0,37.88,-122.25,1974.0
+183,309198,4,635,Education,Education,7122.0,37.88,-122.25,1909.0
+184,310523,4,580,Education,Education,104016.0,37.88,-122.25,1960.0
+185,311868,4,631,Education,Education,23533.0,37.88,-122.25,1906.0
+186,313187,4,579,Education,Education,7781.0,37.88,-122.25,1910.0
+187,314480,4,643,Education,Education,110919.0,37.88,-122.25,1941.0
+188,315747,4,588,Education,Education,21866.0,37.88,-122.25,1911.0
+189,317106,4,652,Education,Education,150887.0,37.88,-122.25,1959.0
+190,318478,4,601,Entertainment/public assembly,Entertainment/public assembly,11910.0,37.88,-122.25,1903.0
+191,319737,4,642,Education,Education,30401.0,37.88,-122.25,
+192,321092,4,573,Education,Education,23815.0,37.88,-122.25,1914.0
+193,322372,4,598,Public services,Public services,68701.0,37.88,-122.25,1930.0
+194,323735,4,604,Education,Education,8463.0,37.88,-122.25,
+195,324288,4,583,Education,Education,206054.0,37.88,-122.25,1950.0
+196,325488,4,616,Education,Education,117814.0,37.88,-122.25,1959.0
+197,326818,4,581,Lodging/residential,Lodging/residential,23012.0,37.88,-122.25,1930.0
+198,328090,4,575,Technology/science,Technology/science,33167.0,37.88,-122.25,1963.0
+199,329399,4,591,Entertainment/public assembly,Entertainment/public assembly,59326.0,37.88,-122.25,1932.0
+200,330068,4,621,Parking,Parking,387.0,37.88,-122.25,1955.0
+201,330785,4,620,Education,Education,220703.0,37.88,-122.25,2011.0
+202,332166,4,600,Education,Education,44182.0,37.88,-122.25,1917.0
+203,333527,4,567,Entertainment/public assembly,Entertainment/public assembly,82670.0,37.88,-122.25,2016.0
+204,334334,4,644,Entertainment/public assembly,Entertainment/public assembly,261091.0,37.88,-122.25,1923.0
+205,335627,4,584,Education,Education,137806.0,37.88,-122.25,1967.0
+206,336902,4,590,Education,Education,8516.0,37.88,-122.25,1920.0
+207,338244,4,641,Education,Education,109588.0,37.88,-122.25,1994.0
+208,339505,4,648,Education,Education,154706.0,37.88,-122.25,2009.0
+209,340762,4,596,Education,Education,18474.0,37.88,-122.25,1923.0
+210,342055,5,709,Education,Primary/Secondary Classroom,23067.0,51.5,-3.186,1976.0
+211,343382,5,708,Education,Primary/Secondary Classroom,102429.0,51.5,-3.186,1945.0
+212,344732,5,733,Education,Primary/Secondary Classroom,96929.0,51.5,-3.186,1966.0
+213,346099,5,722,Education,Primary/Secondary Classroom,31635.0,51.5,-3.186,1966.0
+214,347413,5,670,Healthcare,Creamatorium,18471.0,51.5,-3.186,1966.0
+215,348736,5,712,Education,Primary/Secondary Classroom,22949.0,51.5,-3.186,1976.0
+216,350046,5,710,Education,Primary/Secondary Classroom,12088.0,51.5,-3.186,1919.0
+217,351336,5,691,Office,Office,42647.0,51.5,-3.186,1976.0
+218,352615,5,731,Education,Primary/Secondary Classroom,29149.0,51.5,-3.186,1919.0
+219,353965,5,728,Education,Primary/Secondary Classroom,30300.0,51.5,-3.186,1966.0
+220,355258,5,697,Education,Primary/Secondary Classroom,18697.0,51.5,-3.186,1919.0
+221,356541,5,684,Office,Office,152471.0,51.5,-3.186,1919.0
+222,357825,5,721,Education,Primary/Secondary Classroom,121471.0,51.5,-3.186,1966.0
+223,359127,5,735,Education,Primary/Secondary Classroom,155807.0,51.5,-3.186,2013.0
+224,360444,5,672,Manufacturing/industrial,Greenhouse,6329.0,51.5,-3.186,1919.0
+225,361775,5,664,Entertainment/public assembly,Community Center,49492.0,51.5,-3.186,1976.0
+226,363108,5,694,Education,Primary/Secondary Classroom,30613.0,51.5,-3.186,1976.0
+227,364440,5,729,Education,Primary/Secondary Classroom,17190.0,51.5,-3.186,1919.0
+228,365702,5,679,Public services,Library,43400.0,51.5,-3.186,1976.0
+229,366995,5,738,Education,Primary/Secondary Classroom,95433.0,51.5,-3.186,1966.0
+230,368266,5,658,Entertainment/public assembly,Community Center,31075.0,51.5,-3.186,1976.0
+231,369500,5,704,Education,Primary/Secondary Classroom,17050.0,51.5,-3.186,1966.0
+232,370806,5,659,Entertainment/public assembly,Community Center,15306.0,51.5,-3.186,1976.0
+233,372162,5,686,Office,Office,12206.0,51.5,-3.186,1976.0
+234,373448,5,739,Education,Primary/Secondary Classroom,137046.0,51.5,-3.186,1966.0
+235,374758,5,680,Public services,Library,9849.0,51.5,-3.186,1976.0
+236,376083,5,714,Education,Primary/Secondary Classroom,8730.0,51.5,-3.186,1976.0
+237,377372,5,741,Education,Primary/Secondary Classroom,14025.0,51.5,-3.186,1966.0
+238,378683,6,764,Education,College Classroom,58307.0,40.34,-74.7,
+239,381354,6,771,Lodging/residential,Dormitory,82911.0,40.34,-74.7,
+240,385304,6,776,Office,Office,104667.0,40.34,-74.7,
+241,388987,6,785,Education,College Laboratory,250000.0,40.34,-74.7,
+242,390330,6,752,Public services,Library,38671.0,40.34,-74.7,
+243,391526,6,782,Education,College Laboratory,129344.0,40.34,-74.7,
+244,392887,6,765,Entertainment/public assembly,Swimming Pool,58562.0,40.34,-74.7,
+245,396880,6,786,Education,College Laboratory,257000.0,40.34,-74.7,
+246,398048,6,759,Lodging/residential,Dormitory,48519.0,40.34,-74.7,
+247,400645,6,756,Lodging/residential,Dormitory,44352.0,40.34,-74.7,
+248,401942,6,770,Education,College Classroom,80325.0,40.34,-74.7,
+249,405765,6,772,Lodging/residential,Dormitory,87661.0,40.34,-74.7,
+250,407050,6,775,Office,Office,104355.0,40.34,-74.7,
+251,408359,6,757,Education,College Laboratory,46813.0,40.34,-74.7,
+252,409527,7,791,Education,College Classroom,150695.0,45.4,-75.7,
+253,413423,7,795,Education,College Classroom,387500.0,45.4,-75.7,1960.0
+254,417327,7,800,Education,College Classroom,64583.0,45.4,-75.7,1955.0
+255,421224,7,798,Education,College Classroom,409028.0,45.4,-75.7,1970.0
+256,425164,7,797,Education,College Classroom,764237.0,45.4,-75.7,1979.0
+257,429113,8,849,Public services,"Office, Fire Stations",6448.0,,,
+259,431566,8,818,Public services,"Fire Station, Fire Stations",3648.0,,,
+260,432798,8,843,Entertainment/public assembly,Park,5380.0,,,
+261,434034,8,871,Entertainment/public assembly,Park,1536.0,,,
+262,435254,8,813,Public services,"Community Center, Community Centers",5630.0,,,
+263,436484,8,826,Public services,"Community Center, Community Centers",19446.0,,,
+264,437701,8,805,Entertainment/public assembly,Community Center,3200.0,,,
+265,438997,8,864,Public services,"Community Center, Community Centers",16584.0,,,
+266,440274,8,869,Entertainment/public assembly,Sports Facility,875000.0,,,
+267,441571,8,865,Public services,"Fire Station, Fire Stations",10174.0,,,
+268,442802,8,817,Entertainment/public assembly,Park,984.0,,,
+269,444009,8,836,Public services,"Community Center, Community Centers",8168.0,,,
+270,445283,8,834,Public services,Fire Station,4934.0,,,
+272,447746,8,839,Office,Office,14150.0,,,
+273,448952,8,830,Warehouse/storage,Non-Refrigerated Warehouse,15120.0,,,
+274,450316,8,844,Entertainment/public assembly,Museum,6944.0,,,
+275,451531,8,827,Office,Office,5839.0,,,
+276,452776,8,868,Public services,"Fire Station, Fire Stations",60000.0,,,
+277,453998,8,831,Entertainment/public assembly,"Park, Community Centers",4065.0,,,
+278,455253,8,838,Public services,"Community Center, Community Centers",18414.0,,,
+279,456452,9,991,Education,College Classroom,57811.0,30.27,-97.75,
+280,460387,9,941,Lodging/residential,Dormitory,8079.0,30.27,-97.75,
+281,461740,9,948,Entertainment/public assembly,Athletic Field,20372.0,30.27,-97.75,
+282,465633,9,902,Education,College Laboratory,14561.0,30.27,-97.75,
+283,467019,9,880,Education,College Classroom,157723.0,30.27,-97.75,
+284,470947,9,953,Entertainment/public assembly,Sports Stadium,563782.0,30.27,-97.75,
+285,474847,9,895,Education,College Classroom,55087.0,30.27,-97.75,
+286,478844,9,978,Education,College Classroom,258491.0,30.27,-97.75,
+287,482646,9,883,Education,College Classroom,399331.0,30.27,-97.75,
+288,485188,9,951,Office,Office,103924.0,30.27,-97.75,
+289,489125,9,884,Education,College Classroom,38598.0,30.27,-97.75,
+290,490474,9,910,Office,Office,60096.0,30.27,-97.75,
+291,494458,9,908,Education,College Classroom,91254.0,30.27,-97.75,
+292,498360,9,986,Office,Office,34072.0,30.27,-97.75,
+293,499692,9,939,Lodging/residential,Dormitory,8051.0,30.27,-97.75,
+294,501002,9,881,Entertainment/public assembly,Conference Center,344798.0,30.27,-97.75,
+295,502250,9,875,Lodging/residential,Dormitory,177708.0,30.27,-97.75,
+296,506138,9,938,Lodging/residential,Dormitory,11227.0,30.27,-97.75,
+297,507394,9,964,Education,College Laboratory,130577.0,30.27,-97.75,
+298,511320,9,918,Education,College Classroom,60621.0,30.27,-97.75,
+299,515302,9,968,Education,Student Union,153999.0,30.27,-97.75,
+300,519163,9,958,Entertainment/public assembly,Theater,234819.0,30.27,-97.75,
+301,523127,9,916,Education,College Classroom,51778.0,30.27,-97.75,
+302,527080,9,900,Education,College Classroom,111623.0,30.27,-97.75,
+303,530949,9,928,Education,College Classroom,179115.0,30.27,-97.75,
+304,534884,9,997,Office,Office,38173.0,30.27,-97.75,
+305,538883,9,927,Lodging/residential,Dormitory,745671.0,30.27,-97.75,
+306,542946,9,946,Education,College Laboratory,177216.0,30.27,-97.75,
+307,546951,9,990,Office,Office,82939.0,30.27,-97.75,
+308,549593,9,877,Office,Office,8004.0,30.27,-97.75,
+309,550886,9,972,Education,College Classroom,282152.0,30.27,-97.75,
+310,554760,9,982,Services,garage,373416.0,30.27,-97.75,
+311,556091,9,913,Entertainment/public assembly,Conference Center,503634.0,30.27,-97.75,
+312,560104,9,931,Education,College Classroom,216050.0,30.27,-97.75,
+313,564004,9,898,Public services,Library,64749.0,30.27,-97.75,
+314,567909,9,996,Education,College Laboratory,77632.0,30.27,-97.75,
+315,571898,9,971,Lodging/residential,Dormitory,301307.0,30.27,-97.75,
+316,575813,9,949,Lodging/residential,Dormitory,86786.0,30.27,-97.75,
+317,579767,9,952,Education,College Classroom,218024.0,30.27,-97.75,
+318,583793,9,924,Entertainment/public assembly,Museum,252268.0,30.27,-97.75,
+319,587683,10,1024,Education,Academic,53855.0,,,
+320,588409,10,1026,Lodging/residential,Residence Hall/Dormitory,88480.0,,,
+321,589734,10,1000,Education,Academic,121146.0,,,
+323,595119,10,1027,Lodging/residential,Residence Hall/Dormitory,35465.0,,,
+324,596486,10,1018,Education,Student Center,186840.0,,,
+325,600362,10,1008,Education,Academic,74420.0,,,
+326,603057,10,1003,Education,Academic,94751.0,,,
+327,606955,10,1010,Office,Office,11419.0,,,
+328,608292,10,1007,Office,Office,41933.0,,,
+329,609573,11,1028,Education,Academic,81390.0,56.4,-39.5,
+330,613135,11,1031,Education,Academic,93206.0,56.4,-39.5,
+331,617110,12,1040,Office,Office,126960.0,53.34,6.26,
+332,618400,12,1054,Education,College Classroom,204998.0,53.34,6.26,
+333,619753,12,1038,Technology/science,Data Centre,9838.0,53.34,6.26,
+334,621009,12,1058,Education,College Classroom,84346.0,53.34,6.26,
+335,622340,12,1068,Education,College Classroom,112956.0,53.34,6.26,
+336,623637,12,1066,Education,College Classroom,55800.0,53.34,6.26,
+337,624981,12,1049,Education,College Classroom,94399.0,53.34,6.26,
+338,626194,12,1039,Education,College Classroom,30171.0,53.34,6.26,
+339,627529,12,1056,Education,College Classroom,72958.0,53.34,6.26,
+340,628872,12,1036,Office,Office,54207.0,53.34,6.26,
+341,630165,12,1048,Education,College Classroom,275610.0,53.34,6.26,
+342,631497,12,1045,Office,Office,33530.0,53.34,6.26,
+343,632744,13,1107,Education,College Laboratory,184098.0,44.97,-93.25,
+344,636787,13,1135,Education,College Laboratory,150393.0,44.97,-93.25,
+345,638114,13,1076,Lodging/residential,Dormitory,117054.0,44.97,-93.25,
+346,640694,13,1112,Office,Office,190471.0,44.97,-93.25,
+347,641930,13,1136,Office,Office,79782.0,44.97,-93.25,
+348,644590,13,1171,Manufacturing/industrial,Greenhouse,56851.0,44.97,-93.25,
+349,647128,13,1122,Office,Office,84365.0,44.97,-93.25,
+350,649684,13,1188,Office,Office,37096.0,44.97,-93.25,
+351,650948,13,1220,Public services,Library,381221.0,44.97,-93.25,
+352,654977,13,1124,Lodging/residential,Dormitory,153299.0,44.97,-93.25,
+353,657533,13,1204,Office,Office,38382.0,44.97,-93.25,
+354,658906,13,1110,Office,Office,27145.0,44.97,-93.25,
+355,660249,13,1073,Office,Office,194111.0,44.97,-93.25,
+356,664268,13,1127,Office,Office,87131.0,44.97,-93.25,
+357,666773,13,1191,Education,College Laboratory,192152.0,44.97,-93.25,
+358,670733,13,1083,Education,College Classroom,100813.0,44.97,-93.25,
+359,673383,13,1106,Office,Office,92099.0,44.97,-93.25,
+360,676041,13,1186,Lodging/residential,Dormitory,157070.0,44.97,-93.25,
+361,678697,13,1098,Office,Office,131745.0,44.97,-93.25,
+362,682677,13,1090,Office,Office,305047.0,44.97,-93.25,
+363,686585,13,1102,Office,Office,87187.0,44.97,-93.25,
+364,689198,13,1165,Office,Office,28991.0,44.97,-93.25,
+365,690517,13,1084,Office,Office,122922.0,44.97,-93.25,
+366,693193,13,1125,Parking,Parking: Open Air Ramp,271492.0,44.97,-93.25,
+367,694487,13,1116,Services,Maintenance Repair Shop,11681.0,44.97,-93.25,
+368,695802,13,1168,Office,Office,577101.0,44.97,-93.25,
+369,699795,13,1104,Public services,Library,199722.0,44.97,-93.25,
+370,703704,13,1206,Office,Office,99946.0,44.97,-93.25,
+371,707666,13,1208,Healthcare,Hospital,121585.0,44.97,-93.25,
+372,710349,13,1092,Office,Office,105167.0,44.97,-93.25,
+373,714220,13,1078,Entertainment/public assembly,Museum,80438.0,44.97,-93.25,
+374,716847,13,1189,Office,Office,98212.0,44.97,-93.25,
+376,722092,13,1091,Lodging/residential,Dormitory,233341.0,44.97,-93.25,
+377,724661,13,1115,Services,Maintenance Repair Shop,42028.0,44.97,-93.25,
+378,725991,13,1198,Education,Student Union,85164.0,44.97,-93.25,
+379,728657,13,1162,Office,Office,72958.0,44.97,-93.25,
+380,732704,13,1133,Office,Office,82302.0,44.97,-93.25,
+381,736701,13,1094,Office,Office,70852.0,44.97,-93.25,
+382,740677,13,1140,Education,College Laboratory,156483.0,44.97,-93.25,
+383,744638,13,1130,Education,College Laboratory,280225.0,44.97,-93.25,
+384,747273,13,1201,Education,Auditorium,73597.0,44.97,-93.25,
+385,749870,13,1163,Parking,Parking: Enclosed Garage,83919.0,44.97,-93.25,
+386,753800,13,1175,Manufacturing/industrial,Manufacturing Facility,81372.0,44.97,-93.25,
+387,755097,13,1203,Lodging/residential,Dormitory,138602.0,44.97,-93.25,
+388,757743,13,1213,Warehouse/storage,Warehouse (Unconditioned),39464.0,44.97,-93.25,
+389,759051,13,1071,Office,Office,10385.0,44.97,-93.25,
+390,760314,13,1178,Education,College Classroom,133072.0,44.97,-93.25,
+391,762921,13,1173,Manufacturing/industrial,Greenhouse,13091.0,44.97,-93.25,
+392,764218,14,1297,Office,Office,21469.0,,,
+393,769367,14,1223,Office,Office,52141.0,,,
+394,773326,14,1321,Entertainment/public assembly,Athletic,370024.0,,,
+395,777248,14,1281,Office,Office,103138.0,,,
+396,778253,14,1283,Public services,Library,76537.0,,,
+397,782123,14,1247,Food sales and service,Dining,69876.0,,,
+398,786086,14,1262,Office,Office,65000.0,,,
+399,789988,14,1263,Education,Research,97838.0,,,
+400,793926,14,1256,Office,Office,37917.0,,,
+401,796566,14,1286,Healthcare,Patient Care,205472.0,,,
+402,800478,14,1279,Office,Office,64743.0,,,
+403,801719,14,1231,Education,Research,13220.0,,,
+404,804349,14,1235,Public services,Library,278369.0,,,
+405,808310,14,1261,Office,Office,42942.0,,,
+406,809682,14,1301,Education,Research,62242.0,,,
+407,814949,14,1320,Entertainment/public assembly,Athletic,34565.0,,,
+408,816294,14,1312,Lodging/residential,Housing,75000.0,,,
+409,820275,14,1242,Office,Office,23871.0,,,
+410,824240,14,1308,Lodging/residential,Housing,62279.0,,,
+411,828124,14,1276,Office,Office,53860.0,,,
+412,832052,14,1250,Education,Research,232139.0,,,
+413,836018,14,1265,Food sales and service,Dining,35605.0,,,
+414,839926,14,1306,Lodging/residential,Housing,54172.0,,,
+415,843543,14,1282,Healthcare,Support,12500.0,,,
+416,844833,14,1271,Public services,Public Service,20540.0,,,
+417,848741,14,1324,Entertainment/public assembly,Athletic,84688.0,,,
+418,852612,14,1300,Healthcare,Patient Care,25609.0,,,
+419,856457,14,1241,Healthcare,Support,194188.0,,,
+420,861779,14,1246,Office,Office,50327.0,,,
+421,865743,14,1296,Office,Office,8836.0,,,
+422,870919,14,1275,Office,Office,114166.0,,,
+423,874887,14,1229,Office,Office,27646.0,,,
+424,878828,14,1291,Office,Office,237546.0,,,
+425,882669,15,1427,Education,College Classroom,180625.0,42.47,-76.5,1933.0
+426,884989,15,1421,Education,College Classroom,47934.0,42.47,-76.5,
+427,886157,15,1379,Office,Office,49553.0,42.47,-76.5,1963.0
+428,889764,15,1406,Lodging/residential,Dormitory,136522.0,42.47,-76.5,2005.0
+429,892162,15,1372,Education,College Laboratory,16289.0,42.47,-76.5,1957.0
+430,893373,15,1362,Education,Student Union,113988.0,42.47,-76.5,1923.0
+431,895769,15,1359,Education,College Classroom,124289.0,42.47,-76.5,1904.0
+432,898208,15,1363,Office,Office,157933.0,42.47,-76.5,1932.0
+433,901729,15,1378,Education,College Laboratory,214505.0,42.47,-76.5,1990.0
+434,904051,15,1442,Public services,Library,99541.0,42.47,-76.5,1993.0
+435,906433,15,1349,Manufacturing/industrial,Greenhouse,7919.0,42.47,-76.5,1970.0
+436,907530,15,1367,Education,College Classroom,33695.0,42.47,-76.5,1948.0
+437,911030,15,1353,Religious worship,Religious building,22201.0,42.47,-76.5,
+438,913349,15,1399,Lodging/residential,Dormitory,166814.0,42.47,-76.5,1929.0
+439,914611,15,1430,Office,Office,53303.0,42.47,-76.5,1981.0
+440,916731,15,1371,Public services,Library,50577.0,42.47,-76.5,1956.0
+441,917886,15,1377,Education,College Laboratory,74599.0,42.47,-76.5,1984.0
+442,921357,15,1368,Entertainment/public assembly,Gymnasium,199037.0,42.47,-76.5,1949.0
+443,923627,15,1397,Lodging/residential,Dormitory,19984.0,42.47,-76.5,1914.0
+444,924832,15,1409,Lodging/residential,Dormitory,48881.0,42.47,-76.5,1902.0
+445,928182,15,1418,Lodging/residential,Dormitory,41302.0,42.47,-76.5,1975.0
+446,930527,15,1373,Education,College Classroom,105434.0,42.47,-76.5,2014.0
+447,931730,15,1435,Education,College Laboratory,9552.0,42.47,-76.5,1961.0
+448,932898,15,1357,Office,Office,21618.0,42.47,-76.5,
+449,935240,15,1405,Lodging/residential,Dormitory,142901.0,42.47,-76.5,2007.0
+450,938589,15,1352,Office,Office,42755.0,42.47,-76.5,
+451,940963,15,1386,Entertainment/public assembly,Museum,82035.0,42.47,-76.5,1975.0
+452,944473,15,1387,Office,Office,187041.0,42.47,-76.5,1973.0
+453,946828,15,1385,Education,College Laboratory,124521.0,42.47,-76.5,1967.0
+454,948023,15,1410,Office,Office,11524.0,42.47,-76.5,1994.0
+455,950321,15,1350,Education,College Laboratory,149762.0,42.47,-76.5,2004.0
+456,953899,15,1403,Lodging/residential,Dormitory,78438.0,42.47,-76.5,2004.0
+457,955048,15,1416,Lodging/residential,Dormitory,41236.0,42.47,-76.5,1975.0
+458,956169,15,1366,Office,Office,87977.0,42.47,-76.5,1947.0
+459,959629,15,1325,Entertainment/public assembly,Gymnasium,155177.0,42.47,-76.5,1915.0
+460,961432,15,1448,Office,Office,92271.0,42.47,-76.5,2001.0
+461,962594,15,1344,Education,College Laboratory,125507.0,42.47,-76.5,1974.0
+462,966105,15,1423,Lodging/residential,Dormitory,18277.0,42.47,-76.5,1965.0
+463,967269,15,1342,Education,College Laboratory,116854.0,42.47,-76.5,1978.0
+464,970816,15,1345,Education,College Laboratory,20889.0,42.47,-76.5,1976.0
+465,974201,13,1099,Education,Student Union,332884.0,44.97,-93.25,
